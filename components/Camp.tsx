@@ -76,6 +76,18 @@ const Camp = () => {
           <h2 className=" capitalize regular-24 md:rugelar-32 2xl:regular-64 text-white">
             <strong>Feeling Lose</strong> And not knowing the way?
           </h2>
+          <p className="regular-14 xl:regular-16 mt-5 text-white">
+            String from the anxiety of the climbers when visiting a 
+            new climbing location, the possibility of getting lost is very large.
+            thats whay we are here for those of you who want to start an adventure.
+          </p>
+          <Image 
+                className="camp-quote"
+                src="/quote.svg"
+                alt="camp-2"
+                width={186}
+                height={219}
+              />
         </div>
       </div>
     </section>
