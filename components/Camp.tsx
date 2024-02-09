@@ -69,6 +69,15 @@ const Camp = () => {
           peopleJoined="59+ Joined"
         />
       </div>
+
+      <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
+        <div className="bg-green-50 p-8 lg:max-w-[500px] xl:w-[734px]
+         rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden">
+          <h2 className=" capitalize regular-24 md:rugelar-32 2xl:regular-64 text-white">
+            <strong>Feeling Lose</strong> And not knowing the way?
+          </h2>
+        </div>
+      </div>
     </section>
   )
 }
